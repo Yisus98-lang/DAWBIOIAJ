@@ -1,6 +1,9 @@
 # Nom de l’equip
 ## Membres
 - Nom i cognoms — responsabilitat inicial
+- 
+- 
+- Ian Fernandez Cantos
 ## Descripció
 Som un equip de treball del projecte de Sostenibilitat Aplicada al Sistema
 Productiu. Durant el projecte identificarem un repte ambiental o social del
@@ -11,3 +14,6 @@ prendreu les decisions.
 ## Primera reflexió
 Quins problemes ambientals o socials del centre, del barri o de la ciutat us
 agradaria investigar?
+
+
+MUNICIPI: HOSPITALET
