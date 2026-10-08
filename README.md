@@ -2,7 +2,7 @@
 ## Membres
 - Ian Fernandez Cantos — responsabilitat inicial
 - Alejandro Josue Marquez Holguin — responsabilitat inicial
-- Nom i cognoms — responsabilitat inicial
+- Jesus Atset Moreno — responsabilitat inicial
 
 ## Descripció
 Som un equip de treball del projecte de Sostenibilitat Aplicada al Sistema Productiu. Durant el projecte identificarem un repte ambiental o social del nostre entorn local a L'Hospitalet de Llobregat i proposarem una solució tecnològica sostenible que contribueixi a millorar la qualitat de vida urbana i reduir l'impacte ambiental.
@@ -10,7 +10,7 @@ Som un equip de treball del projecte de Sostenibilitat Aplicada al Sistema Produ
 ## Organització de l’equip
 Membre 1: [Ian Fernandez Cantos] — Rol:   
 Membre 2: [Alejandro Josue Marquez Holguin] — Rol:   
-Membre 3: [Nom i Cognoms] — Rol:  
+Membre 3: [Jesus Atset Moreno] — Rol:  
 
 ## Primera reflexió
 A L'Hospitalet de Llobregat hem identificat tres reptes clau que ens agradaria investigar per desenvolupar la nostra solució tecnològica:
