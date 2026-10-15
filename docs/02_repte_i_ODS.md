@@ -1,3 +1,5 @@
+Membre 2: [Alejandro Josue Marquez Holguin] — Fet Part2
+
 # Part 2. Definició del repte del projecte
 
 Entre les opcions analitzades per a **L'Hospitalet de Llobregat**, hem comparat la **generació de residus** i la **mobilitat (Renfe)** per triar el repte principal.
