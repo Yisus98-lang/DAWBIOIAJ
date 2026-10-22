@@ -40,3 +40,25 @@ En aquesta taula analitzem en detall com afecta el problema a cada col·lectiu, 
 | **Associacions de Veïns (AAVV)** | Extern | Es veuen directament afectades per la degradació de la convivència i del barri quan hi ha brutícia acumulada. | Ser escoltades per l'Ajuntament i aconseguir millores visibles en la neteja dels seus carrers. | **Mitjà** | **Mitjana** | Ajudar a difondre la iniciativa, organitzar xerrades veïnals i donar-nos la seva opió sobre el que falla. |
 | **Àrea Metropolitana de Barcelona (AMB)** | Extern | Si arriba molt rebuig no separable a les plantes de tractament, es col·lapsen els ecoparcs i augmenten els costos. | Que la ciutat augmenti el percentatge de recollida selectiva, sobretot d'orgànica i envasos. | **Alt** | **Alta** | Aportar dades tècniques, finançament per a campanyes públiques i assessorament en la gestió de residus. |
 | **Escoles i Instituts** | Extern | Reben l'impacte de l'incivisme a l'entorn escolar i busquen eines per treballar la sostenibilitat a les aules. | Materials educatius pràctics i activitats motivadores per als seus estudiants. | **Baix** | **Baixa** | Sensibilitzar els joves perquè actuïn com a prescriptors de bon reciclatge a les seves pròpies cases. |
+
+---
+
+## Part 3. Matriu d'influència i afectació
+
+Situem els 8 grups d'interès segons el seu **grau d'influència** (eix X, de baix a alt) i el seu **grau d'afectació** (eix Y, de baix a alt), a partir de la taula de la Part 2.
+
+![Matriu de grups d'interès](matriu_grups_interes.svg)
+
+Versió en taula (el grup *Equip Desenvolupador* és l'únic intern):
+
+| Afectació ↓ / Influència → | **Baixa** | **Mitjana** | **Alta** |
+| :--- | :--- | :--- | :--- |
+| **Alt** | — | Veïnat i Ciutadania | Ajuntament de L'Hospitalet<br>Àrea Metropolitana de Barcelona (AMB) |
+| **Mitjà** | Comerços i Mercats Municipals | Equip Desenvolupador (INS Provençana)<br>Associacions de Veïns (AAVV) | Empresa de recollida de residus |
+| **Baix** | Escoles i Instituts | — | — |
+
+### Estratègia segons la posició
+
+- **Gestionar de a prop** (afectació i influència altes): Ajuntament, AMB, Veïnat i Empresa de recollida. Cal implicar-los en les decisions i mantenir comunicació constant.
+- **Informar o consultar** (prioritat mitjana): Equip Desenvolupador i AAVV (centre de la matriu). Cal mantenir-los al corrent i escoltar-los.
+- **Monitoritzar** (prioritat baixa): Comerços i Mercats, i Escoles i Instituts. Seguiment lleuger, amb canals específics de recollida per als comerços i materials educatius per a les escoles.
