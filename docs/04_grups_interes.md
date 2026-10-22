@@ -1,5 +1,5 @@
 
-Membre 2: [Alejandro Josue Marquez Holguin] — Fet Part1 i Part2 **Rol:** Coordinador/a i organització de l'equip.
+Membre 2: [Alejandro Josue Marquez Holguin] — Fet Part1 i Part2 
 
 **Repte:** Reduir els residus no reciclables i millorar la recollida selectiva als barris de L'Hospitalet de Llobregat.
 
