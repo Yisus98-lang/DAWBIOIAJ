@@ -50,14 +50,9 @@ Situem els 8 grups d'interès segons el seu **grau d'influència** (eix X, de ba
 ![Matriu de grups d'interès](matriu_grups_interes.svg)
 
 
-| Afectació ↓ / Influència → | **Baixa** | **Mitjana** | **Alta** |
+| Afectació / Influència | **Baixa** | **Mitjana** | **Alta** |
 | :--- | :--- | :--- | :--- |
 | **Alt** | — | Veïnat i Ciutadania | Ajuntament de L'Hospitalet<br>Àrea Metropolitana de Barcelona (AMB) |
 | **Mitjà** | Comerços i Mercats Municipals | Equip Desenvolupador (INS Provençana)<br>Associacions de Veïns (AAVV) | Empresa de recollida de residus |
 | **Baix** | Escoles i Instituts | — | — |
 
-### Estratègia segons la posició
-
-- **Gestionar de a prop** (afectació i influència altes): Ajuntament, AMB, Veïnat i Empresa de recollida. Cal implicar-los en les decisions i mantenir comunicació constant.
-- **Informar o consultar** (prioritat mitjana): Equip Desenvolupador i AAVV (centre de la matriu). Cal mantenir-los al corrent i escoltar-los.
-- **Monitoritzar** (prioritat baixa): Comerços i Mercats, i Escoles i Instituts. Seguiment lleuger, amb canals específics de recollida per als comerços i materials educatius per a les escoles.
