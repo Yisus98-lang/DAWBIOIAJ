@@ -1,14 +1,6 @@
-# Part 1 i Part 2: Grups d'Interès i Anàlisi
 
-**Repte:** Reduir els residus no reciclables i millorar la recollida selectiva als barris de L'Hospitalet de Llobregat.
+* **Membre 2** [Alejandro Josue Marquez holguin] — **Rol:** Coordinador/a i organització de l'equip.
 
-## 1. Integrants del grup i rols
-
-* **Nom 1:** [Nom del membre 1] — **Rol:** Coordinador/a i organització de l'equip.
-* **Nom 2:** [Nom del membre 2] — **Rol:** Recerca de dades i anàlisi de camp.
-* **Nom 3:** [Nom del membre 3] — **Rol:** Redacció i edició del contingut.
-
----
 
 ## Part 1. Determinar els grups d'interès i classificar
 
