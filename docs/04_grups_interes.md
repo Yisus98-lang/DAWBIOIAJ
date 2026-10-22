@@ -49,7 +49,6 @@ Situem els 8 grups d'interès segons el seu **grau d'influència** (eix X, de ba
 
 ![Matriu de grups d'interès](matriu_grups_interes.svg)
 
-Versió en taula (el grup *Equip Desenvolupador* és l'únic intern):
 
 | Afectació ↓ / Influència → | **Baixa** | **Mitjana** | **Alta** |
 | :--- | :--- | :--- | :--- |
