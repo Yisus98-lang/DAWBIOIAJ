@@ -1,5 +1,6 @@
 
-Membre 2: [Alejandro Josue Marquez Holguin] — Fet Part1 i Part2 
+Membre 2: [Alejandro Josue Marquez Holguin] — Fet Part 1 i Part 2 
+Membre 3: [Jesús Atset Moreno] — Fet Part 3 i Part 4 
 
 **Repte:** Reduir els residus no reciclables i millorar la recollida selectiva als barris de L'Hospitalet de Llobregat.
 
