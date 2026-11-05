@@ -1,6 +1,6 @@
 # DAWBIOIAJ
 ## Membres
-- Ian Fernandez Cantos — responsabilitat inicial
+- Eloi Alloza Valls — responsabilitat inicial
 - Alejandro Josue Marquez Holguin — responsabilitat inicial
 - Jesus Atset Moreno — responsabilitat inicial
 
@@ -8,7 +8,7 @@
 Som un equip de treball del projecte de Sostenibilitat Aplicada al Sistema Productiu. Durant el projecte identificarem un repte ambiental o social del nostre entorn local a L'Hospitalet de Llobregat i proposarem una solució tecnològica sostenible que contribueixi a millorar la qualitat de vida urbana i reduir l'impacte ambiental.
 
 ## Organització de l’equip
-Membre 1: [Ian Fernandez Cantos] — Rol:   
+Membre 1: [Eloi Alloza Valls] — Rol:   
 Membre 2: [Alejandro Josue Marquez Holguin] — Rol:   
 Membre 3: [Jesus Atset Moreno] — Rol:  
 
