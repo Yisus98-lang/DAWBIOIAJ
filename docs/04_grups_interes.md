@@ -1,6 +1,5 @@
 
-Membre 2: [Alejandro Josue Marquez Holguin] — Fet Part 1 i Part 2 
-Membre 3: [Jesús Atset Moreno] — Fet Part 3 i Part 4 
+Membre 2: [Alejandro Josue Marquez Holguin] — Fet Part1 i Part2 
 
 **Repte:** Reduir els residus no reciclables i millorar la recollida selectiva als barris de L'Hospitalet de Llobregat.
 
@@ -46,14 +45,54 @@ En aquesta taula analitzem en detall com afecta el problema a cada col·lectiu, 
 
 ## Part 3. Matriu d'influència i afectació
 
-Situem els 8 grups d'interès segons el seu **grau d'influència** (eix X, de baix a alt) i el seu **grau d'afectació** (eix Y, de baix a alt), a partir de la taula de la Part 2.
+El mapa queda dividit en quatre zones segons el **grau d'influència** (eix X, de baix a alt) i el **grau d'afectació** (eix Y, de baix a alt) de cada grup. Per passar dels tres nivells de la Part 2 (Alt / Mitjà / Baix) a dos, considerem «alt» només el que la taula marca com a Alt o Alta; Mitjà/Mitjana i Baix/Baixa es consideren «baix».
 
 ![Matriu de grups d'interès](matriu_grups_interes.svg)
 
+| Situació del grup | Estratègia recomanada | Grups d'interès |
+| :--- | :--- | :--- |
+| Influència alta i afectació alta | Implicar-lo activament en les decisions | Ajuntament de L'Hospitalet, AMB |
+| Influència alta i afectació baixa | Mantenir-lo informat i buscar-ne el suport | Empresa de recollida de residus |
+| Influència baixa i afectació alta | Escoltar-lo, protegir-lo i facilitar-ne la participació | Veïnat i Ciutadania |
+| Influència baixa i afectació baixa | Fer-ne un seguiment general | Equip Desenvolupador (intern), AAVV, Comerços i Mercats, Escoles i Instituts |
 
-| Afectació / Influència | **Baixa** | **Mitjana** | **Alta** |
-| :--- | :--- | :--- | :--- |
-| **Alt** | — | Veïnat i Ciutadania | Ajuntament de L'Hospitalet<br>Àrea Metropolitana de Barcelona (AMB) |
-| **Mitjà** | Comerços i Mercats Municipals | Equip Desenvolupador (INS Provençana)<br>Associacions de Veïns (AAVV) | Empresa de recollida de residus |
-| **Baix** | Escoles i Instituts | — | — |
+Versió en graella:
+
+| Afectació ↓ / Influència → | **Baixa** | **Alta** |
+| :--- | :--- | :--- |
+| **Alta** | Veïnat i Ciutadania | Ajuntament, AMB |
+| **Baixa** | Equip Desenvolupador, AAVV, Comerços i Mercats, Escoles i Instituts | Empresa de recollida de residus |
+
+**Nota:** Equip Desenvolupador, AAVV i Comerços i Mercats tenen un nivell «Mitjà» a la Part 2, per la qual cosa són a prop de la frontera entre zones. Si l'equip creu que les AAVV s'han de tractar com a grup molt afectat, passarien a la zona d'*Escoltar-lo, protegir-lo i facilitar-ne la participació*.
+
+---
+
+## Part 4. Selecció dels grups més rellevants
+
+A partir de la matriu, seleccionem els tres grups que necessiten una atenció prioritària: l'**Ajuntament de L'Hospitalet** i l'**Àrea Metropolitana de Barcelona (AMB)**, que són a la zona d'influència i afectació altes, i el **Veïnat i Ciutadania**, que és el grup més afectat i qui ha de canviar els hàbits al dia a dia. Aquesta selecció no vol dir que la resta de grups no siguin importants, sinó que identifica els actors que estan especialment afectats o que poden influir de manera decisiva en el projecte.
+
+### 1. Ajuntament de L'Hospitalet (Àrea de Serveis Urbans)
+
+1. **Com li afecta el problema:** paga penalitzacions elevades per portar tant rebuig a l'abocador i rep moltes queixes per incivisme.
+2. **Necessitats i expectatives:** reduir els costos de gestió, complir les normatives europees de reciclatge i tenir els carrers més nets.
+3. **Grau d'influència:** alt. Decideix el pressupost, la ubicació i el tipus de contenidors i fa complir les ordenances.
+4. **Per què és important:** sense la seva autorització i finançament, la proposta no es pot portar a terme. A més, és qui més pot guanyar amb una reducció del rebuig.
+5. **Com hauria de participar:** com a soci principal, implicat des del disseny. Cal presentar-li la proposta amb dades i càlcul d'estalvi, demanar-li autorització per fer una prova pilot en algun barri i mantenir-hi reunions de seguiment.
+
+### 2. Àrea Metropolitana de Barcelona (AMB)
+
+1. **Com li afecta el problema:** quan arriba molt rebuig que no es pot separar, els ecoparcs es col·lapsen i els costos de tractament augmenten. També cobra el cànon de rebuig.
+2. **Necessitats i expectatives:** que la ciutat augmenti el percentatge de recollida selectiva, sobretot d'orgànica i envasos.
+3. **Grau d'influència:** alt. Gestiona el tractament final dels residus i disposa de finançament i criteris tècnics.
+4. **Per què és important:** té les dades tècniques i els recursos per donar suport a les campanyes, i el seu objectiu coincideix amb el del projecte.
+5. **Com hauria de participar:** com a assessor i possible finançador. Cal demanar-li dades de qualitat de la recollida per barris, assessorament tècnic i suport per a les campanyes de sensibilització.
+
+### 3. Veïnat i Ciutadania de L'Hospitalet
+
+1. **Com li afecta el problema:** pateix la brutícia al carrer, les olors i la falta d'espai als contenidors. Si no es recicla, li pot pujar la taxa de brossa.
+2. **Necessitats i expectatives:** facilitats per reciclar, informació senzilla, contenidors nets i a prop de casa i, possiblement, algun incentiu.
+3. **Grau d'influència:** mitjà de manera individual, però decisiu en conjunt. El resultat depèn que separin bé la brossa a casa.
+4. **Per què és important:** és el grup més afectat i el que ha de canviar els hàbits. Sense la seva participació, la millor solució tècnica no funciona.
+5. **Com hauria de participar:** com a protagonista i no només com a destinatari. Cal escoltar-lo amb enquestes o converses als barris, validar-hi la proposta i comptar amb les AAVV per difondre-la i recollir-ne opinions.
+
 
