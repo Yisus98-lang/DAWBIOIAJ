@@ -1,5 +1,6 @@
 
 Membre 2: [Alejandro Josue Marquez Holguin] — Fet Part1 i Part2 
+Membre 3: [Jesús Atset Moreno] — Fet Part3 i Part4 
 
 **Repte:** Reduir els residus no reciclables i millorar la recollida selectiva als barris de L'Hospitalet de Llobregat.
 
@@ -56,16 +57,6 @@ El mapa queda dividit en quatre zones segons el **grau d'influència** (eix X, d
 | Influència baixa i afectació alta | Escoltar-lo, protegir-lo i facilitar-ne la participació | Veïnat i Ciutadania |
 | Influència baixa i afectació baixa | Fer-ne un seguiment general | Equip Desenvolupador (intern), AAVV, Comerços i Mercats, Escoles i Instituts |
 
-Versió en graella:
-
-| Afectació ↓ / Influència → | **Baixa** | **Alta** |
-| :--- | :--- | :--- |
-| **Alta** | Veïnat i Ciutadania | Ajuntament, AMB |
-| **Baixa** | Equip Desenvolupador, AAVV, Comerços i Mercats, Escoles i Instituts | Empresa de recollida de residus |
-
-**Nota:** Equip Desenvolupador, AAVV i Comerços i Mercats tenen un nivell «Mitjà» a la Part 2, per la qual cosa són a prop de la frontera entre zones. Si l'equip creu que les AAVV s'han de tractar com a grup molt afectat, passarien a la zona d'*Escoltar-lo, protegir-lo i facilitar-ne la participació*.
-
----
 
 ## Part 4. Selecció dels grups més rellevants
 
