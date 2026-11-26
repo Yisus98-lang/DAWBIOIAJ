@@ -1,6 +1,6 @@
 
 Membre 2: [Alejandro Josue Marquez Holguin] — Fet Part1 i Part2 
-Membre 3: [Jesús Atset Moreno] — Fet Part3 i Part4 
+Membre 3: [Jesús Atset Moreno] — Fet Part3, Part4 i Part5
 
 **Repte:** Reduir els residus no reciclables i millorar la recollida selectiva als barris de L'Hospitalet de Llobregat.
 
@@ -87,3 +87,52 @@ A partir de la matriu, seleccionem els tres grups que necessiten una atenció pr
 5. **Com hauria de participar:** com a protagonista i no només com a destinatari. Cal escoltar-lo amb enquestes o converses als barris, validar-hi la proposta i comptar amb les AAVV per difondre-la i recollir-ne opinions.
 
 
+---
+
+## Part 5. Proposta d'aliances
+
+Proposem dues aliances. La primera parteix d'iniciatives que ja existeixen a L'Hospitalet i que es podrien ampliar. La segona aprofita un programa real de l'AMB (*Compartim un Futur*) per connectar el nostre equip amb el veïnat. Tot i així, cap de les dues és un conveni ja signat amb el nostre projecte: són propostes de col·laboració que caldria negociar.
+
+### Aliança 1. Pla de recollida comercial: Ajuntament, AMB, Ecoembes/Ecovidrio, empresa de recollida i comerços
+
+**Base real:** l'AMB, Ecovidrio i Ecoembes, amb la col·laboració de l'Ajuntament de L'Hospitalet, ja van fer una campanya adreçada a prop d'un miler de bars i restaurants de la ciutat per explicar-los com separar cada fracció i enquestar-los sobre com ho feien. A més, el nou contracte de recollida i neteja («L'H més que net», 2026) preveu contenidors d'orgànica tancats amb clau electrònica per a grans productors (bars, restaurants i alguns comerços) i una prova pilot de recollida porta a porta de cartró per a comerços al carrer del Progrés.
+
+- **Grups que hi participarien:** Ajuntament de L'Hospitalet (Àrea de Serveis Urbans), AMB, Ecoembes i Ecovidrio, empresa adjudicatària de la recollida, Comerços de barri i Mercats Municipals, i el nostre equip (INS Provençana).
+- **Objectiu de la col·laboració:** que el cartró, els envasos i l'orgànica dels comerços es recullin per canals propis, perquè deixin de saturar els contenidors del veïnat i es redueixi el rebuig.
+- **Què aportaria cada participant:**
+  - **Ajuntament:** autorització, el marc del nou contracte, la prova pilot del carrer del Progrés i la possibilitat de bonificar la taxa als comerços que separin bé.
+  - **AMB:** dades de qualitat de la recollida per barris i assessorament tècnic.
+  - **Ecoembes i Ecovidrio:** material informatiu i experiència en campanyes per a l'hostaleria.
+  - **Empresa de recollida:** rutes i horaris adaptats als comerços, i dades de quins punts acumulen més impropis.
+  - **Comerços i mercats:** separar bé a origen, complir els horaris i donar la seva opinió sobre què els funciona.
+  - **Equip INS Provençana:** una eina web senzilla perquè els comerços consultin horaris i punts de recollida, i un tauler per visualitzar les dades de la prova pilot.
+- **Benefici per al projecte:** accés a dades reals i a una prova pilot que ja existeix, cosa que ens permet validar la proposta sense haver de crear un servei nou. Si funciona, l'Ajuntament té arguments per estendre-la a altres carrers.
+- **Dificultat que podria aparèixer:** molts actors amb ritmes diferents. Els comerços tenen poc temps i poden veure la mesura com una obligació més, i l'empresa i l'AMB poden no voler compartir dades detallades amb un equip d'estudiants.
+- **Com es podria iniciar:** presentant a l'Àrea de Serveis Urbans un document breu amb la proposta i les dades del problema (taxa de recollida selectiva per sota del 30%) i demanant participar en el seguiment de la prova pilot del carrer del Progrés. En paral·lel, contactar amb l'associació de comerciants o el mercat de la zona per fer una primera enquesta.
+
+### Aliança 2. Campanya veïnal de sensibilització: INS Provençana, AMB (*Compartim un Futur*), AAVV i escoles
+
+**Base real:** el programa d'educació ambiental de l'AMB *Compartim un Futur* ofereix projectes d'aprenentatge servei (ApS) en què l'alumnat fa un servei ambiental a la comunitat, amb dossiers, recursos i assessorament del programa. Inclou propostes sobre residus, com *Dràstics amb els plàstics*. Les associacions de veïns i les escoles del municipi no hi estan vinculades formalment amb nosaltres: seria una aliança potencial.
+
+- **Grups que hi participarien:** Equip Desenvolupador (INS Provençana), AMB a través de *Compartim un Futur*, Associacions de Veïns (AAVV) dels barris amb menys recollida selectiva, i Escoles i Instituts del municipi.
+- **Objectiu de la col·laboració:** que el veïnat sàpiga què va a cada contenidor i per què és important, atacant les causes I1 (poca informació) i D1 (mala separació a les llars) de l'arbre de problemes.
+- **Què aportaria cada participant:**
+  - **Equip INS Provençana:** disseny i desenvolupament d'una web o app senzilla («on va això?», calendari de recollida, mapa de contenidors) i suport en les sessions informatives.
+  - **AMB (*Compartim un Futur*):** materials educatius, assessorament del programa i difusió a les seves xarxes.
+  - **AAVV:** contacte directe amb el veïnat, espais per fer xerrades i enquestes, i retorn sobre què falla als barris.
+  - **Escoles i instituts:** l'alumnat porta el missatge a casa i actua com a prescriptor del bon reciclatge davant les famílies.
+- **Benefici per al projecte:** validar la proposta amb usuaris reals, comptar amb materials contrastats i arribar a moltes llars a través d'entitats que ja tenen la confiança del barri.
+- **Dificultat que podria aparèixer:** coordinar els calendaris escolars amb els de les AAVV, mantenir la participació un cop acabada la campanya, i arribar a veïns que no participen en entitats o que no parlen català ni castellà.
+- **Com es podria iniciar:** escrivint a l'assessoria de *Compartim un Futur* (assessoria.compartim@amb.cat) per inscriure un projecte ApS sobre residus des de l'INS Provençana, i presentant-lo a una o dues AAVV per organitzar una primera xerrada i una enquesta al barri.
+
+---
+
+## Fonts d'informació consultades
+
+- Agència de Residus de Catalunya. *Estadístiques de residus municipals*. https://residus.gencat.cat/ca/consultes_i_tramits_-_nou/estadistiques/
+- Ajuntament de L'Hospitalet. *Moció pel foment del reciclatge a L'Hospitalet* (Ple de 25 de febrer de 2025). https://seuelectronica.l-h.cat/mocions/doc/1933.pdf
+- Ajuntament de L'Hospitalet. *Moció per a la implantació d'un sistema de rotació en l'emplaçament dels contenidors* (Ple de 24 de març de 2026). https://seuelectronica.l-h.cat/mocions/doc/2104.pdf
+- APD Notícies. *Els operaris substitueixen 4.250 contenidors a L'Hospitalet de matinada* (22 de maig de 2026). https://www.apdnoticies.com/en/barcelona/hospitalet-llobregat/the-operators-replace-4-250-containers-in-l-hospitalet-in-the-early-morning-to-avoid-traffic-disruptions_13152_102.html
+- Sostenible.cat / AMB. *Campanya per millorar la recollida selectiva a bars i restaurants de L'Hospitalet* (AMB, Ecovidrio i Ecoembes). https://www.sostenible.cat/print/noticia/multiplicar-el-reciclatge-a-lhostaleria-a-lhospitalet-de-llobregat-i-castellbisbal
+- AMB. *Compartim un Futur – Aprenentatge servei ambiental (ApS)*. https://www.amb.cat/s/web/ecologia/sostenibilitat/educacio-ambiental/aps.html
+- AMB. *Catàleg de projectes d'aprenentatge servei, curs 2026-2027*. https://recam.amb.cat/bitstreams/e214c37b-5c9a-48bc-9bf9-db5421525521/download
