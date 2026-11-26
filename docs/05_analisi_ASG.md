@@ -1,4 +1,3 @@
-Membre 2: [Alejandro Josue Marquez Holguin] — [rol per completar]
 Membre 3: [Jesús Atset Moreno] — Identificació dels aspectes ASG, matriu, selecció de prioritats i canvis al projecte
 
 **Repte:** reduir els residus no reciclables i millorar la recollida selectiva als barris de L'Hospitalet de Llobregat.
